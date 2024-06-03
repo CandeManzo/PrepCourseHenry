@@ -1,0 +1,19 @@
+body{ 
+    background-color:#aae481;
+    margin: 20px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 2.6em;
+}
+ 
+.texto{
+    font-size: 1.5em;
+}
+
+.logo{
+
+}
